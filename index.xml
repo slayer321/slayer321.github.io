@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hi, I&#39;m Sachinmaurya!</title>
+    <link>https://slayer321.github.io/</link>
+    <description>Recent content on Hi, I&#39;m Sachinmaurya!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 11 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://slayer321.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A new Journey</title>
+      <link>https://slayer321.github.io/posts/2021/09/a-new-journey/</link>
+      <pubDate>Sat, 11 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://slayer321.github.io/posts/2021/09/a-new-journey/</guid>
+      <description>Introduction Namaste 🙏 , It’s been a while I have been thinking about creating a new website for me but procrastination was always been in my way. Finally, I’m here with the new website I always used to think of what does it feels like to have your portfolio and sharing your life experience with other people.
+I will post all the content that I’m learning let it be technical or non-technical and also will like to know your comment on it.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://slayer321.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://slayer321.github.io/about/</guid>
+      <description>About Hello there 👋, I am Sachin Maurya a final year student at Xavier Institute of Engineering majoring in Information Technology and currently, I&amp;rsquo;m working as a Technical writer Intern at CloudYuga.
+I have always been passionate about computers, software programming, and technology as a whole. The thrill of building something I envisioned in my mind and watching it work is something I’ve always been a fan of. Recently, I have been obsessed with how important it is for technology to be used in an ethically right way.</description>
+    </item>
+    
+  </channel>
+</rss>
